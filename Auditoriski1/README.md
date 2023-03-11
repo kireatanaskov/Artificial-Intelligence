@@ -25,38 +25,38 @@
 
 Во оваа задача се чуваат родендените на пријатели, кои треба да се пронајдат според имињата на пријателите. Креирајте речник (dictionary) со имиња и родендени. Потоа, додадете функционалност со која од стандарден влез се чита име на пријател, и вратете го неговиот роденден (односно испечатете го на стандарден излез). Интеракцијата на програмата треба да изгледа како:
 
->>> Dobredojdovte do rechnikot za rodendeni. Nie gi znaeme rodendenite na:
-Ana
-Marija
-Stefan
-Aleksandar 
->>> Koj rodenden e potrebno da se prebara?
-Marija
->>> Rodendenot na Marija e na 01/17/1991
+    Dobredojdovte do rechnikot za rodendeni. Nie gi znaeme rodendenite na:
+    Ana
+    Marija
+    Stefan
+    Aleksandar 
+    Koj rodenden e potrebno da se prebara?
+    Marija
+    Rodendenot na Marija e na 01/17/1991
 
 Задачи за вежбање
 Задача 1
 
 Напишете програма која бара од корисникот да внесе име и години и потоа пресметува во која година тој ќе има 100 години. Испечатете го неговото име и годината добиена.
 
->>> Vnesete ime i godini:
-Dimitar 23
->>> Dimitar ke ima 100 godini vo 2097
+    Vnesete ime i godini:
+    Dimitar 23
+    Dimitar ke ima 100 godini vo 2097
 
 Задача 2
 
 Напишете програма каде корисникот внесува број и на екран му се печати 'Paren' ако бројот е парен или 'Neparen' ако бројот е непарен. Дополнително ако бројот е делив со 4 да се испечати 'Deliv so 4'
 
->>> Vnesete broj:
-8
->>> Paren
->>> Deliv so 4
+    Vnesete broj:
+    8
+    Paren
+    Deliv so 4
 
 Задача 3
 
 Напишете програма која на влез прима два броја и проверува дали првиот број е делив со вториот. Да се испечати 'Deliv' ако е делив.
 
->>> Vnesete dva broj:
-125
-5
->>> Deliv
+    Vnesete dva broj:
+    125
+    5
+    Deliv
